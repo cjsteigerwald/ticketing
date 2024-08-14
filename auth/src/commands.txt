@@ -1,0 +1,5 @@
+# Skaffold - run skaffold.yaml location
+skaffold dev
+
+# Run test suite - in auth directory
+npm run test
